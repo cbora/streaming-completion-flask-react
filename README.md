@@ -2,6 +2,11 @@
 
 This project demonstrates how to create a chat interface using OpenAI's GPT API, with a React frontend and Flask backend. The backend streams completions from the GPT API, and the frontend displays these in a chat interface. 
 
+## Demo
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JquhIDmI5tM
+" target="_blank"><img src="http://img.youtube.com/vi/JquhIDmI5tM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ## Project Structure
 
 This project contains two main directories:
